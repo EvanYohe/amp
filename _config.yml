@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Vans Amps
+tagline:          'Rock on!'
+description:      'Custom Guitars and Amplifiers'
+url:              https://vansamps.com
+baseurl:          /
+
+author:
+  name:           'Evan Yohe'
+  url:
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:
